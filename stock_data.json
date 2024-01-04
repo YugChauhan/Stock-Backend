@@ -1,0 +1,82 @@
+{
+  "AAPL": {
+    "price": "143.64",
+    "refreshInterval": 4
+  },
+  "GOOGL": {
+    "price": "8763.77",
+    "refreshInterval": 2
+  },
+  "MSFT": {
+    "price": "97.66",
+    "refreshInterval": 2
+  },
+  "AMZN": {
+    "price": "7554.55",
+    "refreshInterval": 2
+  },
+  "TSLA": {
+    "price": "185.41",
+    "refreshInterval": 4
+  },
+  "FB": {
+    "price": "842.12",
+    "refreshInterval": 2
+  },
+  "JPM": {
+    "price": "3461.71",
+    "refreshInterval": 2
+  },
+  "NVDA": {
+    "price": "571.84",
+    "refreshInterval": 4
+  },
+  "DIS": {
+    "price": "3299.42",
+    "refreshInterval": 4
+  },
+  "V": {
+    "price": "270.93",
+    "refreshInterval": 4
+  },
+  "MA": {
+    "price": "716.35",
+    "refreshInterval": 4
+  },
+  "PYPL": {
+    "price": "475.76",
+    "refreshInterval": 2
+  },
+  "NFLX": {
+    "price": "122.16",
+    "refreshInterval": 4
+  },
+  "AMD": {
+    "price": "2141.55",
+    "refreshInterval": 4
+  },
+  "BA": {
+    "price": "893.69",
+    "refreshInterval": 3
+  },
+  "CRM": {
+    "price": "16.18",
+    "refreshInterval": 3
+  },
+  "HD": {
+    "price": "104.72",
+    "refreshInterval": 2
+  },
+  "PG": {
+    "price": "263.09",
+    "refreshInterval": 4
+  },
+  "KO": {
+    "price": "261.29",
+    "refreshInterval": 4
+  },
+  "JNJ": {
+    "price": "706.19",
+    "refreshInterval": 3
+  }
+}
